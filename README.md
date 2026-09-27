@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
 
 <!-- ======================================================== -->
 <!--                     HEADER BANNER                        -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=220&section=header&text=Md.%20Shahidul%20Islam%20Prodhan&fontSize=40&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Technology%20%26%20Business%20Systems%20Analyst%20%7C%20Data%20Analytics%20%26%20AI/ML&descAlignY=58&descSize=17" width="100%" alt="Md. Shahidul Islam Prodhan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=220&section=header&text=Md.%20Shahidul%20Islam%20Prodhan&fontSize=40&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Technology%20and%20Business%20Systems%20Analyst%20%7C%20Data%20Analytics%20and%20AI/ML&descAlignY=58&descSize=17" width="100%" alt="Md. Shahidul Islam Prodhan" />
 
 <!-- ======================================================== -->
 <!--                    TYPING ANIMATION                      -->
@@ -300,7 +299,7 @@ Specialties: [Enterprise IT Infrastructure, Business Process Analysis, Data Anal
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/TheShahidul">
-          <img src="https://github-readme-stats.vercel.app/api?username=TheShahidul&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shahidul's GitHub Stats" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShahidul&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shahidul's GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -312,7 +311,7 @@ Specialties: [Enterprise IT Infrastructure, Business Process Analysis, Data Anal
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/TheShahidul">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShahidul&layout=compact&theme=radical&hide_border=true&langs_count=8" width="80%" alt="Top Languages" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShahidul&layout=compact&theme=radical&hide_border=true&langs_count=8" width="80%" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -335,6 +334,3 @@ Specialties: [Enterprise IT Infrastructure, Business Process Analysis, Data Anal
     <img src="https://komarev.com/ghpvc/?username=TheShahidul&label=Profile%20Views&color=0e7490&style=flat" alt="Profile Views" />
   </a>
 </div>
-
-
-
